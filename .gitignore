@@ -1,0 +1,13 @@
+.classpath
+.vscode/
+.idea/
+.settings/
+.project
+.class
+target/*
+bin/*
+out/*
+logs/*
+reports/*
+/target/
+/bin/
